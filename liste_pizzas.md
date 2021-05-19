@@ -24,7 +24,7 @@
 			<td align="center" >PREI</td>
 			<td align="center" >9.99$</td>
 			<td  align="center" >
-				<img width="200" src="PREI.jfif" alt="Pizza Reine">
+				<img width="200" src="images/PREI.jfif" alt="Pizza Reine">
 			</td>
 		</tr>
 		<tr>
@@ -33,7 +33,7 @@
 			<td align="center" >PROY</td>
 			<td align="center" >10.99$</td>
 			<td  align="center" >
-				<img width="200" src="PROY.jfif" alt="Pizza Royale">
+				<img width="200" src="images/PROY.jfif" alt="Pizza Royale">
 			</td>
 		</tr>
 		<tr>
@@ -42,7 +42,7 @@
 			<td align="center" >PNAP</td>
 			<td align="center" >11.99$</td>
 			<td  align="center" >
-				<img width="200" src="PNAP.jpg" alt="Pizza Reine">
+				<img width="200" src="images/PNAP.jpg" alt="Pizza Reine">
 			</td>
 		</tr>
 		<tr>
@@ -51,7 +51,7 @@
 			<td align="center" >PMAG</td>
 			<td align="center" >8.99$</td>
 			<td  align="center" >
-				<img width="200" src="PMAG.jfif" alt="Pizza Margharita">
+				<img width="200" src="images/PMAG.jfif" alt="Pizza Margharita">
 			</td>
 		</tr>
 	</tbody>
