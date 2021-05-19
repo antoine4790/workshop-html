@@ -1,0 +1,41 @@
+body {
+ padding :5px;
+ background-color : #EFECCA;
+}
+
+h1 {
+	color : red;
+}
+
+h2 {
+	color : #4BB5C1;
+}
+
+li {
+	display :inline;
+	font-family: Helvetica;
+	border : solid 2px;
+	border-color : #660000;
+	background-color : #C03000;
+	padding : 8px;
+	list-style-type: none;
+	margin : 5px;
+	text-align : center;
+	width : 100px;
+	
+}
+
+li:hover {
+	background-color : #009900;
+}
+
+li>a {
+	
+	color : white;
+	text-decoration : none;
+}
+
+p>a {
+	color :  #0000FF;
+	text-decoration : none;
+}
