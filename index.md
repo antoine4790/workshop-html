@@ -9,7 +9,7 @@
 
 <ul>
 <li><a href="#contact"> Accueil</a></li>
-<li><a href="#contact"> Nos pizzas</a></li>
+<li><a href="liste_pizzas.md"> Nos pizzas</a></li>
 <li><a href="#contact"> Contact</a></li>
 </ul>
 <br>
