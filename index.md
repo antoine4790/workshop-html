@@ -7,9 +7,9 @@
 <h1>La Florentina</h1>
 <h3>Pizzéria</h3>
 <li>
-<a href="#contact"> Nous contacter</a>
-<a href="#contact"> Nous contacter</a>
-<a href="#contact"> Nous contacter</a>
+<a href="#contact"> Nous contacter</a><br>
+<a href="#contact"> Nous contacter</a><br>
+<a href="#contact"> Nous contacter</a><br>
 </li>
 
 <h4>A propos</h4>
