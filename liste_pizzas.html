@@ -10,7 +10,7 @@
 <table width="100" border="1" >
 	<thead>
 		<tr>
-			<th colspan="2">A</th>
+			<th align="center" colspan="2">A</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -22,7 +22,7 @@
 			<td align="center">C</td>
 		</tr>
 	</tbody>
-</table
+</table>
 
 </body>
 </html>
