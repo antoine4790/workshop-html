@@ -10,7 +10,7 @@
 <table width="100" border="1" >
 	<thead>
 		<tr>
-			<th align="center" colspan="2">A</th>
+			<th text-align="center" colspan="2">A</th>
 		</tr>
 	</thead>
 	<tbody>
