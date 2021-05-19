@@ -6,11 +6,12 @@
 <body>
 <h1>La Florentina</h1>
 <h3>Pizzéria</h3>
-<li>
-<a href="#contact"> Nous contacter</a><br>
-<a href="#contact"> Nous contacter</a><br>
-<a href="#contact"> Nous contacter</a><br>
-</li>
+
+<ul>
+<li><a href="#contact"> Nous contacter</a><br></li>
+<li><a href="#contact"> Nous contacter</a><br></li>
+<li><a href="#contact"> Nous contacter</a><br></li>
+</ul>
 
 <h4>A propos</h4>
 <p>La florentina a ouvert ses portes en 2000<br>
